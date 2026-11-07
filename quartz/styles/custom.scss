@@ -1,3 +1,26 @@
+:root {
+  --headerFont: "Cormorant Garamond", serif;
+}
+
+:root[saved-theme="dark"] {
+  --light: #15130f;
+  --lightgray: #2b2720;
+  --gray: #77705f;
+  --darkgray: #d6cfbf;
+  --dark: #efe8d6;
+  --secondary: #c9a35f;
+  --tertiary: #e6c985;
+}
+
+:root[saved-theme="light"] {
+  --light: #f4efe3;
+  --lightgray: #ddd5c3;
+  --gray: #9a917c;
+  --darkgray: #4a4438;
+  --dark: #1f1b14;
+  --secondary: #8a6420;
+  --tertiary: #b8863a;
+}
 a.internal {
   background-color: transparent !important;
   padding: 0 !important;
@@ -18,3 +41,69 @@ footer::after {
   opacity: 0.7;
   font-size: 0.85em;
 }
+
+
+body {
+  background-color: var(--light) !important;
+}
+
+a.internal,
+.breadcrumb-element a {
+  color: var(--secondary) !important;
+}
+
+h1, h2, h3, .page-title, .explorer-title, .graph h3, .backlinks h3 {
+  font-family: "Cormorant Garamond", serif !important;
+}
+
+body,
+.center,
+.left.sidebar,
+.right.sidebar {
+  background-color: var(--light) !important;
+}
+
+.left.sidebar,
+.right.sidebar {
+  background-color: var(--lightgray) !important;
+}
+
+.explorer a,
+.explorer li a {
+  font-family: "Cormorant Garamond", serif !important;
+  font-size: 1.05rem;
+}
+
+a.tag-link {
+  color: var(--secondary) !important;
+}
+html,
+#quartz-root,
+#quartz-body {
+  background-color: var(--light) !important;
+}
+
+.explorer-content,
+.explorer ul,
+.graph > .graph-outer {
+  background-color: transparent !important;
+}
+
+.graph > .graph-outer {
+  border: 1px solid var(--lightgray);
+}
+
+a.tag-link,
+.properties a {
+  color: var(--secondary) !important;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+   footer {
+     background-color: transparent !important;
+   }
+   footer a {
+     color: var(--secondary) !important;
+   }

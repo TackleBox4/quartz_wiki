@@ -22,24 +22,24 @@ configuration:
     colors:
       lightMode:
         light: "#f4efe3"
-    	lightgray: "#ddd5c3"
-    	gray: "#9a917c"
-    	darkgray: "#4a4438"
-    	dark: "#1f1b14"
-    	secondary: "#8a6420"
-    	tertiary: "#b8863a"
-    	highlight: "rgba(138, 100, 32, 0.12)"
-    	textHighlight: "rgba(184, 134, 58, 0.3)"
+        lightgray: "#ddd5c3"
+        gray: "#9a917c"
+        darkgray: "#4a4438"
+        dark: "#1f1b14"
+        secondary: "#8a6420"
+        tertiary: "#b8863a"
+        highlight: "rgba(138, 100, 32, 0.12)"
+        textHighlight: "rgba(184, 134, 58, 0.3)"
       darkMode:
         light: "#15130f"
-    	lightgray: "#2b2720"
-    	gray: "#77705f"
-    	darkgray: "#d6cfbf"
-    	dark: "#efe8d6"
-    	secondary: "#c9a35f"
-   	tertiary: "#e6c985"
-    	highlight: "rgba(201, 163, 95, 0.12)"
-    	textHighlight: "rgba(201, 163, 95, 0.25)"
+        lightgray: "#2b2720"
+        gray: "#77705f"
+        darkgray: "#d6cfbf"
+        dark: "#efe8d6"
+        secondary: "#c9a35f"
+        tertiary: "#e6c985"
+        highlight: "rgba(201, 163, 95, 0.12)"
+        textHighlight: "rgba(201, 163, 95, 0.25)"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -230,8 +230,6 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
     layout:
       position: footer
       priority: 50
