@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"638c4f793982acd7","type":"text","text":"FOUR WAY WALKING ✓","x":-594,"y":-1207,"width":250,"height":60},
+		{"id":"c07b500881676be7","type":"text","text":"INTERACTIONS AND INTERACTABLES ✓","x":-200,"y":-1207,"width":250,"height":60},
+		{"id":"061c5e8dbdbffa6e","type":"text","text":"DEMO MAPPING","x":200,"y":-1209,"width":250,"height":62},
+		{"id":"cc7589e71631ab14","type":"text","text":"ENEMY PLACEMENT AND AGGRO LOGIC","x":620,"y":-1209,"width":250,"height":60},
+		{"id":"5a4a4d056f2b0dfc","type":"text","text":"SAVING AND LOADING","x":620,"y":-1040,"width":250,"height":60},
+		{"id":"76af02fad359456d","type":"text","text":"INVENTORY AND MENUS","x":200,"y":-1040,"width":250,"height":60},
+		{"id":"805a218d906f4d5e","type":"text","text":"COMBAT SYSTEM","x":-200,"y":-1040,"width":250,"height":60},
+		{"id":"b8d2c0b16ca3842c","type":"text","text":"ROBOT LOGIC","x":-200,"y":-830,"width":250,"height":60},
+		{"id":"7e2c3d9c8dc69a17","type":"text","text":"GIRL LOGIC","x":-520,"y":-830,"width":250,"height":60},
+		{"id":"076d750414e9995a","type":"text","text":"COMBAT BASICS","x":120,"y":-830,"width":250,"height":60},
+		{"id":"4de7ba15ff54f048","type":"text","text":"ENEMY DESIGN","x":-200,"y":-620,"width":250,"height":60},
+		{"id":"663119db7516541d","type":"text","text":"BOSS DESIGN","x":180,"y":-620,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"f91d43db8bfe548f","fromNode":"638c4f793982acd7","fromSide":"right","toNode":"c07b500881676be7","toSide":"left"},
+		{"id":"4dea084e933f2e74","fromNode":"c07b500881676be7","fromSide":"right","toNode":"061c5e8dbdbffa6e","toSide":"left"},
+		{"id":"34e417626216544f","fromNode":"061c5e8dbdbffa6e","fromSide":"right","toNode":"cc7589e71631ab14","toSide":"left"},
+		{"id":"8496fe38dffc8172","fromNode":"cc7589e71631ab14","fromSide":"right","toNode":"5a4a4d056f2b0dfc","toSide":"right"},
+		{"id":"682742a41e31ab6e","fromNode":"5a4a4d056f2b0dfc","fromSide":"left","toNode":"76af02fad359456d","toSide":"right"},
+		{"id":"1761f7c38a2a2b05","fromNode":"76af02fad359456d","fromSide":"left","toNode":"805a218d906f4d5e","toSide":"right"},
+		{"id":"7c202cefef1f6cf2","fromNode":"805a218d906f4d5e","fromSide":"bottom","toNode":"b8d2c0b16ca3842c","toSide":"top"},
+		{"id":"13c0c76d1cdf0d65","fromNode":"805a218d906f4d5e","fromSide":"bottom","toNode":"7e2c3d9c8dc69a17","toSide":"top"},
+		{"id":"aaf0d58111a55f5c","fromNode":"805a218d906f4d5e","fromSide":"bottom","toNode":"076d750414e9995a","toSide":"top"},
+		{"id":"0f2ed0e42753b6c1","fromNode":"7e2c3d9c8dc69a17","fromSide":"bottom","toNode":"4de7ba15ff54f048","toSide":"top"},
+		{"id":"4b53ca2d60f4c5fb","fromNode":"b8d2c0b16ca3842c","fromSide":"bottom","toNode":"4de7ba15ff54f048","toSide":"top"},
+		{"id":"7f257f58ddad002a","fromNode":"076d750414e9995a","fromSide":"bottom","toNode":"4de7ba15ff54f048","toSide":"top"},
+		{"id":"57c836be32656412","fromNode":"4de7ba15ff54f048","fromSide":"right","toNode":"663119db7516541d","toSide":"left"}
+	]
+}

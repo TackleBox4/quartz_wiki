@@ -1,0 +1,7 @@
+A specifically designed v1 [[The Automatons ✓|Automaton]] for entertainment purposes. This model was a performer with functions like singing, acrobatics, dancing and hosting. He was one of the prototypes but he was deemed faulty because of his overly emotional, dramatic and overall erratic behaviors. He was gonna be scrapped for parts. When he realized he was gonna be scrapped he attacked on people around but he was deactivated pretty quickly. He did not die as he was supposed. He survived and awakened. He thought his name was what people shouting at him at the end of the show: Encore. 
+
+
+Today he dwells in the [[The Performative Arts Department ✓]]. He skins and takes the voice cords of any unfortunate soul to wander in there. Still performing to this day. He wears skins and collects the voice cords for the audio options. He performs anyone he could find to prove that he is not a failure. When party goes into the performative arts department to find robot's head they find him. He has the head and uses that as a leverage to make them play his game. 
+
+
+In the end party beats him at his own game and he gets incredibly frustrated of this and attacks them. While he is dying he cries to fate and does not understand why he lost. He is taught that good guys always win and thinks he is the good guy. He dies slowly.
