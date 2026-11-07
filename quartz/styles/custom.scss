@@ -3,10 +3,10 @@ a.internal {
   padding: 0 !important;
   border-radius: 0 !important;
   border-bottom: 1px solid var(--secondary);
-  transition: border-color 0.2s ease;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
 
   &:hover {
-    background-color: transparent !important;
+    background-color: rgba(180, 142, 173, 0.15) !important;
     border-bottom-color: var(--tertiary);
   }
 }
