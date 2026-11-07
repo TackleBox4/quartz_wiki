@@ -3,6 +3,8 @@ aliases:
   - Headmaster
   - Master
   - The Master
+tags:
+  - characters
 ---
 Name:
 

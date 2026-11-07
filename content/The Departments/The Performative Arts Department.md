@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Department that was created by people with artistic desires that were also open to changes and adapting to the new technology. They believed [[The Automatons|Automatons]] were the next big thing in the entertainment business and more specifically theater. They tried to give automatons entertainment functions such as dancing, performing tricks and singing. They were able to engineer [[Puppets]] which were able to do these things via [[The Humans|human]] control but their experiments failed on creating an autonomous entertainer automaton.
 
 

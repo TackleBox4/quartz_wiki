@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+---
+
 Past teachers of the [[The Headmaster|Headmaster]] who expelled him from his previous academy. After [[The Sunbreak]] headmaster was far more ruthless and there was a lack of reliable staff on [[The Academy]]. Most of them were passed away but he summoned their ghosts and bind them to this academy so serve him for eternity, never be able to pass unto the afterlife.  He binded one to every department usually the one that reflected their profession. They all taken this differently. Some boiled with hatred and anger to this day. Some are resentful of their actions and state of their departments. Some moved on and focused on their duties. 
 
 

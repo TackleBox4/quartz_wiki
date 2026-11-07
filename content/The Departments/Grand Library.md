@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 The library of [[The Academy]] where every book is stored. [[The Headmaster|Headmaster]] also hid his mind here. Used to be one of the most populated areas of the academy during the blossom era. Now it is mostly empty except [[The Archivist]] and some other [[The Automatons|Automatons]].
 
 

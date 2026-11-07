@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Department were all kinds of combat arts were taught and practiced. People came here to learn martial arts, weapon combat and self defense measures. They were also trying to integrate weapons into the new technologies they invented. Researchers were more interested in new technologies and inventions rather than the combat techniques taught. After [[The Sunbreak]] this place was used by [[The Headmaster|Headmaster]] to create the perfect weapon against the [[The Ancient Ones|Ancient ones]]. He started with [[The Automatons|V2s]] as they were the latest automaton model at the time but moved on to the V1s later on as well. After both of these experiments giving negative results he stopped the experiments briefly. Until V3s were made. He tried a V3 model as an experiment after even that one failing he scattered parts around [[The Academy]] and stopped the experiments completely.
 
 

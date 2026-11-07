@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 This department was used to be the leisure and entertainment section of [[The Academy]]. It was filled with restaurants and bars. After the era of blossom this department was closed indefinitely as the lack of [[The Humans]] made the use of this department obsolete. It stayed closed till [[The Sunbreak]]. Few years after sunbreak a need for [[Arcana]] arisen. This was done by sucking the arcana out of the human body and essentially  killing the host. [[The Headmaster|Headmaster]] ran countless experiments to find new ways to get arcana or the amplify the existing methods. Research led to concrete evidence that a "gambler's high" can amplify the harvested arcana about 50 percent. Same effect can be achieve in adolescents with fair and carnival rides. So the harvest department was built. A casino at one side and a site with different attractions aimed at kids at the other. As this department was repurposed much later no ghost was assigned to it. 
 
 

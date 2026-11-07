@@ -1,3 +1,8 @@
+---
+tags:
+  - characters
+---
+
 Used to be a hunter in a distant village. Simple life with her daughter and her husband. She hunted game for food and money. She was good at it too. An excellent tracker. She tracked while her husband hunted and take the shots. One day her husband died from illness. So she started to look after her daughter herself. she tracked and hunted. One day her daughter was kidnapped in the middle of the night. She rushed behind the kidnappers but couldn't catch up. She tracked them for days which eventually took her to [[The Academy]]. She is still inside looking for her daughter while doing what she does best. She has been inside the academy around one or two months. An ordinary [[The Humans|human]] shouldn't be able to survive in The Academy let alone by herself but a capable mother looking for her daughter did.
 
 

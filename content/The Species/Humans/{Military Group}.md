@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+---
+
 Military group that worked with [[Council Of Sorcerers|the council]] during the sunbreak. They were the manpower during the sunbreak. They take contact from the cities. Council was a client to them too but they cut their ties with them since [[The Sunbreak]] and are operating independently. [[Commander]] was also belonged to this group while he was a spy.
 
 Party can find instructions of a communication spell on some squads corpses. Later on they use this to contract the military group. When military group learns that tram that magpie squad filled is still there, they ask for it in exchange of helping taking down [[The Headmaster]]. Party can take the payload to [[The Hub]] to use it themselves or give to them gain a strong ally. 

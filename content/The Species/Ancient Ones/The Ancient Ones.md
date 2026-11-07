@@ -9,6 +9,8 @@ aliases:
   - the ancient one
   - the ancient species
   - ancient species
+tags:
+  - faction
 ---
 An organic race that ruled before the mankind. Their erasure via [[The Sealing]] led to the [[The Humans|mankind]]'s rise. Every one of the members of this race is much more complex and advanced than any human. They rely on constant stimulation of their senses. They wither and die without if they go too long without stimulation but their senser are extremely blunt so they don't feel most things. This is the reason they adapted into a hivemind so that their perceiving of sense would sharpen thousand fold. For to survive they devised a cycle of violence. They harm and kill each other. Feeling of dying and killing combined keeps them stimulated. This cycle stopped after The Sealing. Their influence over the will of people and inorganic matter is immensely high. So much so that most humans can't even comprehend Ancient ones or anything related to them. however from their dimension their influence over the world and the people are very limited. They waited millenniums for an opportunity to take back the world. Their realm made them weaker and weaker to this day. Them unleashed into to this world would surely mean the end for the humanity but they can't get in back their selves. They need a human's help. A gatekeeper. About half century ago their gate was opened for the first time since The Sealing even though briefly but a it was closed again mere moments later by a strong bind in an act of betrayal. This bind is getting weaker and weaker every day.
 

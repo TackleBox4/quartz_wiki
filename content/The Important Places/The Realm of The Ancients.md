@@ -1,6 +1,8 @@
 ---
 aliases:
   - The Ancient One's realm
+tags:
+  - places
 ---
 
 A planet in another realm. It was where [[The Ancient Ones|Ancient ones]] ended up after [[The Sealing]]. [[{The Mother Of The Girl}]] did not chose it specifically but in the end it did worked in their favor. Planet had a radioactive core and the thing that filled around it till the surface was a material that originated from that realm. It was able to conduct the gamma rays incredible well almost with hundred percent efficiency. This resulted in planet to be bombarded by radiation nonstop. This was perfect for the ancient ones as it gave them enough pain to be alive and well but not enough to hurt them. 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Chaos Book
+tags:
+  - concepts
 ---
 Chaos Book
 

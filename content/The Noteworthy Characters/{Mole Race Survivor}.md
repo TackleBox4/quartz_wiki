@@ -1,6 +1,8 @@
 ---
 aliases:
   - pre historic race that lived in the underground
+tags:
+  - characters
 ---
 
 One of the descendants of a prehistoric race that lived during the ancient one's time on earth. They were able to survive by living underground and hiding. They hid for centuries thinking [[The Ancient Ones|Ancient ones]] never left. Most members of this race died in years due to lack of resources. Him and his family is possibly the only ones left. 

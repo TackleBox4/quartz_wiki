@@ -1,2 +1,7 @@
+---
+tags:
+  - events
+---
+
 Prehistoric event that sealed away the [[The Ancient Ones|Ancient ones]] in another realm and letting a hundreds of new species flourish alongside other [[The Humans|human]]s. This was orchestrated by [[{The Mother Of The Girl}]] to protect her race and stop the extinction of her race. Since Ancient One's need constant stimulation and are unsensitive to any kind of stimulation this needed to be done. While at earth they relied on the act of killing and sensation of dying to get stimulated. The mother of the girl needed to sever her connection to the hivemind to realize that this cycle of violence would extinct their species. She was one of the few that survived the severing and lived. After severing her connection she devised a plan to take her species to a realm where there is constant pain and suffering. Any other race would perish there but they would feel right at home. After mother of the girl and other ancient one's arriving they lived fine for centuries but realm started to adapt to them and actually harm them and kill them so they are desperately trying to return.
 

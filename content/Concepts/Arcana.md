@@ -1,3 +1,8 @@
+---
+tags:
+  - concepts
+---
+
 An organic element that is found in blood. it is heavily related to spell casting. it's quantity is same in blood throughout the years however different in every person. it determines a person's ability to cast spells. being affected by spells is unrelated to the arcana. not much is known by outside society about arcana. Most of the information comes from [[The Academy]].
 
 

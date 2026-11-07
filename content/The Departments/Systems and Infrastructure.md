@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 A small place where most of the general systems are controlled and observed. These systems include but not limited to: [[{Tram System}]], Raw Material Processing Center Inventory, Steam Reading and Directing, Hologram Systems.
 
 Tram System: Tram system is controlled and maintained from here to a degree. Party needs to repair the main console and specific tracks needing repair to open fast travel for that place.

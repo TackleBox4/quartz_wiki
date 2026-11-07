@@ -1,4 +1,6 @@
 ---
 aliases:
   - Demon
+tags:
+  - characters
 ---

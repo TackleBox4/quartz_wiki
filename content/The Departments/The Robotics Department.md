@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Section A: Maintenance Ward and Workshop
    Department where [[The Automatons|V1s]] and V2s were mass produced. It was designed and operated by [[Grandfather of The Tinkerer|grandfather]]. It changed into grandfather's prison and [[Ghost of Suffering|Demon]]'s hunting ground after his disobeying. This is where [[The Tinkerer]]'s awakening quest takes place. Party goes here to find a parts for a prosthesis for tinkerer. They come across hollowed and drained bodies. Department seems to be a really ominous place. Sure there are a few automatons usually broken V1s but there is a lingering feeling in the air. They feel as if they are being followed. Sometimes a shadow too dark in the corner of their eyes other times it's an unusual sound creeping closer. This is even worsened for tinkerer as he feels like there is a voice in his mind trying to speak to him. Offering him salvation but her very voice feels too much. It feels as his mind is exploding. This continues till they find the grandfather. Tinkerer doesn't recognize him immediately due to passed years and his current state. It seems time or something else has taken a toll on him. He is a shell of what he used to be. Tinkerer tries to make him remember but it's like he is almost on a trance. [[The Old Man]] thinks there is a spell put on him by [[The Headmaster|Headmaster]] and thinks he can break the spell under the right circumstances. 
 

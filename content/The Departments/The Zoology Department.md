@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 The Department where all kinds of animals were present and studied upon. The man who recommended this department to [[The Headmaster]] was someone who was in love with nature and life upon it. Someone really dedicated on his ideals. After a few years of gathering animals around the world he realized that some of their animals and their habitat's were in danger. [[The Humans]] were destined to destroy some of these races. He started to work on measures to preserve animal life. He refused requests of animals for experiments. He was disliked in [[The Academy]] due to this.
 
 

@@ -1,6 +1,8 @@
 ---
 aliases:
   - bind
+tags:
+  - events
 ---
 
 Spell that is holding the[[The Ancient Ones|Ancient ones]] from coming to this world. Put by The [[The Headmaster|Headmaster]] using ancient knowledge and wisdom. Headmaster started to design this spell when he realized the deal he made could end the existence of every [[The Humans|human]] on earth. His plan was to take the wisdom of the ancients and seal them with a new spell. He partly succeeded but this new seal is not merely a band-aid compared to the previous one put by [[{The Mother Of The Girl}]]. It needs constant [[Arcana]] to hold the ancients and even then it can't actually stop their influence that good. Ancient ones anticipated resistance or trickery but not to this degree. Going this many years without a herald made them blind to the development of human race.

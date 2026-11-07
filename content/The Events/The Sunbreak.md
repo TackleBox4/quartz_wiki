@@ -1,3 +1,8 @@
+---
+tags:
+  - events
+---
+
 A military operation organized by the [[Council Of Sorcerers]] and[[{Military Group}]] in an effort to overthrow [[The Academy]]'s leader along side other missions. This military operation seemed to be planned for a long time but it was still rushed. Trigger might have been the [[The Girl]]'s sealing or the [[The Binding]] spell for the [[The Ancient Ones|ancients]]. This operation was advertised to public as a heretic hunt and was supported widely by public. Military personnel consisted of soldiers and spell casters . While their motives were not clear it is known that there was 4 squads with different missions. It seems what made this operation possible was spies that council carefully placed before hand. there were multiple spies with some dating back almost half a decade. One of these spies opened the door for them and let them in. Even though they got in from a blind point and made surprise attack they failed drastically. [[The Headmaster|Headmaster]] knew some kind of a squad operations was bound to happen sooner or later which is the reason he sealed the girl and bind the ancients within the spy's information. He knew it would made them rush it. Squads got separated after breaking in, going after their missions. They had floor plans of academy from the spies. 
 
 

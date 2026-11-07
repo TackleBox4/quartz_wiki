@@ -7,6 +7,8 @@ aliases:
   - V1
   - V2s
   - V2
+tags:
+  - faction
 ---
 
 Automatons are one of the primary species that exist in [[The Academy|Academy]] grounds. They are sentient hunks of metal designed for different tasks. They all are manmade. They divided into two groups after [[The Sunbreak]]: Pre-Sunbreak and Post-Sunbreak.

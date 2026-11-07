@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Storage facility of [[The Academy]] where most items ends up sooner or later. It was highly effective at storing prototypes, inventions and equipment. It had a system where anyone could use to find any item they want in minutes. Tram lines were integrated into the department later on. Heavy duty cargo trams carried crates here all day. With big and countless shelves it is one of the biggest places in the academy. This was until [[The Sunbreak]] of course.
 
 

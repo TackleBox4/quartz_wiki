@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Department created by brilliant minds that also thought other life forms could exist or may have existed before. [[The Headmaster|Headmaster]] was afraid of others finding out about [[The Ancient Ones|Ancient ones]] but due to his school's whole thing being All info for everyone he couldn't outright shut the department down. People who worked there took a different approach to the matter than headmaster. They thought they could create an ancient one. They of course didn't know what ancients ones were or even the name "ancient ones" but they had clues and thought they could replicate these lifeforms. They created deformed lifeforms. abominations that didn't belonged to this world. Most of these forms didn't survive long but they got better and better at creating them. This continued until the isolation period where headmaster though department was getting too dangerous so he ordered it to be evacuated and exploded it's entrances with dynamite.
 
 

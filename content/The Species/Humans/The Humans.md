@@ -2,6 +2,8 @@
 aliases:
   - human
   - mankind
+tags:
+  - faction
 ---
 Dominant race on earth since [[The Sealing]]. At the time of the events of the game firearms were just invented with gunpowder. The Humans are living big cities surrounded with walls. these cities make up countries. some countries have around 4 to 5 while others may have as much as 12. There are also people that live in countryside. These villages make most of the food of the cities. [[Arcana]] makes up a big part in their everyday life and society. Their religion is an arcana based one preached by [[Council Of Sorcerers]]. High arcana level people hold the power in their hand and shape the world. They have council of sorcerers who operate like a church. This council is founded by 12 high arcana sorcerers who captured low income people of the society with new promises. This made really powerful really quickly so most authorities just respect them and abide their wishes. This council has a one big tower outside of any city. They connect and speak with city's leaders here. Sometimes some members visits cities to talk or preach to people as well. 
 

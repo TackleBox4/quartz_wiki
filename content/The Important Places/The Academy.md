@@ -7,6 +7,8 @@ aliases:
   - the campus
   - The school
   - school
+tags:
+  - places
 ---
 Founded by [[The Headmaster]] after getting kicked out of his previous academy grounds. Following his departure many of his disciples followed him along with members of the [[LUWS ( Labor Union of Worker Society)]]. With the help of the LUWS workers he built this academy with seemingly pure intentions. LUWS kept the academy running till the Era of ruin. Academy can be divided into three eras in history.
 

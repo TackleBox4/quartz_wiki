@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Originally a big biosphere where any studies or experiment that was plant life related took place. Sometime after the [[The Automatons|V2s]] manufacturing they settled here and started to use it this place as a base. Years of sitting around doing nothing turned this from a base to a city. To this day V2s are still live there in their own culture and society. This place is generally out of the bound for players as it is too dangerous to wander there but player will go there twice in the story.
 
 

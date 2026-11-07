@@ -1,3 +1,8 @@
+---
+tags:
+  - characters
+---
+
 A specifically designed v1 [[The Automatons|Automaton]] for entertainment purposes. This model was a performer with functions like singing, acrobatics, dancing and hosting. He was one of the prototypes but he was deemed faulty because of his overly emotional, dramatic and overall erratic behaviors. He was gonna be scrapped for parts. When he realized he was gonna be scrapped he attacked on people around but he was deactivated pretty quickly. He did not die as he was supposed. He survived and awakened. He thought his name was what people shouting at him at the end of the show: Encore. 
 
 

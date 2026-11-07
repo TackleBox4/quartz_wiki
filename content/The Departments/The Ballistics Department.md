@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 Department where guns were being invented and where explosion could be heard every day and night. Except it wasn't. During blossom era this department was severely underfunded despite being one of the departments with lowest demands. People that were interested in military technologies wasn't more than a handful. This made it ideal for [[The Headmaster|Headmaster]]'s secret study hall where he study [[The Ancient Ones]] in peace. This changed after [[The Sunbreak]] as the main focus shifted largely to military. After this headmaster built his [[The Invisible Tower of Brilliance|invisible tower]] so he could work in peace. After this department was mostly occupied by largely [[The Automatons|V2s]] and some V1s remaining. 
 
 

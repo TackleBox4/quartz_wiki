@@ -1,3 +1,8 @@
+---
+tags:
+  - places
+---
+
 A hidden province found by [[The Humans]] that were ordered to leave but refused. They settled soon after [[The Sunbreak]]. Settlement is located on a distant blocked of part of [[The Academy]]. They protect their town by some kind of a concealment spell. Hence the name Velopolis as in Veiled City. People of the city protected itself and the city by laying low and harsh laws against anyone that dangers it. City is run by a authoritarian council. Party comes and goes here a couple of times throughout the game.
 
 

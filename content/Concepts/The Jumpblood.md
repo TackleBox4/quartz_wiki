@@ -1,6 +1,8 @@
 ---
 aliases:
   - Drug
+tags:
+  - concepts
 ---
 The highly addictive drug discovered by people who were working on the plant growth solutions. The scientist were combining high [[Arcana]] blood with different minerals to get a solution that could speed up the growth of a plant. Jumpblood was discovered during one of the experiments. It didn't take too long to be smuggled outside of [[The Academy]]y and from there it exploded on the outside society. for a while it was everywhere. Then [[Council Of Sorcerers]] banned them calling it "devil's seed". Drug was still around but it was much harder to produce, sell, use and even carry. 
 

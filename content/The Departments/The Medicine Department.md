@@ -1,3 +1,8 @@
+---
+tags:
+  - department
+---
+
 A medical faculty at the time of blessing era. Inventors and researchers here founded really great things. While outside society thought that sickness comes from the evil spirits they were able to found the evidence of microscopic life and their harm. Their researches led to a countless cures for sicknesses being founded. They also integrated [[The Automatons|Automatons]]s to the medical systems with autodocs and [[Microsurgeons]] and of course their state of the art collection automaton. This automaton was able to analyze all of the academy, detect injured or dead people, map out the viable path to them and collect and bring them to the medicine department. This was especially helpful as accidents happened every day in [[The Academy]]. This departments success kept on going till [[The Sunbreak]]. 
 
 

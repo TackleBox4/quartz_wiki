@@ -1,3 +1,8 @@
+---
+tags:
+  - characters
+---
+
 Once [[The Humans|human]] that was experimented now a monstrous creature. his body is full of thick dark purple hair patches. He also has claws that seems to be an organic material of an unknown origin. He seems to move in monkey matter rather than a wolf. hunts humans. Has extra limb growing from his various parts of his body. some seem to be underdeveloped and just flesh blobs but some are capable of grabbing and pulling. His eyes are poked out by his claws. Done to himself in hopes to hurt no one else again. he also has a lot of injuries what seems to be claw marks.
 
 

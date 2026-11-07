@@ -1,3 +1,8 @@
+---
+tags:
+  - faction
+---
+
 Worker union that is found by workers and for workers. Fights for education and equal rights of workers. It's first presence predates [[The Academy]]. It was found by the workers who were denied education from academies. Later on they got a lot bigger and separated into different chapters. 
 These chapters mostly did not get news from each other due to communication being hard and tedious. They mostly did their own things and had different rules. When [[The Headmaster|Headmaster]] was expelled from his previous academy he took two LUWS chapters with him and promised them everything they wanted if they help him built an academy. They would be allowed to be educated there just like any individual. So they agreed and joined him.
 
