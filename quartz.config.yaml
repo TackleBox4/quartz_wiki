@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: TackleBox4.github.io/quartz
+  baseUrl: tacklebox4.github.io/quartz
   ignorePatterns:
     - private
     - templates
