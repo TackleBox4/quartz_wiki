@@ -10,3 +10,11 @@ a.internal {
     border-bottom-color: var(--tertiary);
   }
 }
+
+footer::after {
+  content: "© 2026 Your Name. All rights reserved. Do not copy or redistribute without permission.";
+  display: block;
+  margin-top: 0.5rem;
+  opacity: 0.7;
+  font-size: 0.85em;
+}
