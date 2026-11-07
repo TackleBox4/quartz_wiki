@@ -1,0 +1,6 @@
+---
+aliases:
+  - mother
+  - girl's mother
+---
+[[The Ancient Ones|ancient one]] that betrayed her own kind and sealed them along with herself into another realm. Also the mother of [[The Girl]]. Only ancient that severed her connection to the hivemind and lived to tell the tale. She is actively working alongside her race to get back to world while also trying to find a way to let [[The Humans]] and ancient ones live in harmony. Rest of her race is also starting to figure out that she trapped them here. Her love for the girl is what keeps her going throughout this whole thing. That is the only reason she did not succumb to the extreme pain. Throughout the game she reaches out to the party members and helps them. Also reaches the girl to align her with her ideals. Even though she loves the girl she can't understand the anger and hatred behind  [[The Sealing]]. 50 years is nothing but a moment for her so it is really hard to understand. Also since she basically sealed her race to save them it is easier to relate to [[The Headmaster|Headmaster]] in that matter for her. Even though she loves headmaster too she realizes he needs to be gone if they want to get back to earth and she is ready to do anything she can to make it happen. She also know that their love is mutual and knows that both he and herself would use it if needed. 

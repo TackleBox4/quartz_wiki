@@ -1,0 +1,10 @@
+---
+aliases:
+  - The Ancient One's realm
+---
+
+A planet in another realm. It was where [[The Ancient Ones|Ancient ones]] ended up after [[The Sealing]]. [[{The Mother Of The Girl}]] did not chose it specifically but in the end it did worked in their favor. Planet had a radioactive core and the thing that filled around it till the surface was a material that originated from that realm. It was able to conduct the gamma rays incredible well almost with hundred percent efficiency. This resulted in planet to be bombarded by radiation nonstop. This was perfect for the ancient ones as it gave them enough pain to be alive and well but not enough to hurt them. 
+
+Ancient Ones lived there for centuries. They have built structures and thrived as a society but radiation was amplifying with time. It started to hurt then it started to harm and then it started to kill. Now ancient ones were in a barren wasteland with ruined structures and corpses of their race. They are desperately trying to get back to the world. Enduring this much radiation for this long let them develop psychic abilities. This how they were able to communicate with humans.
+
+[[The Girl]] can shift dimension between here and her original dimension, first uncontrolled later if correct path is chosen controlled. Her short visits and her origins prevent permanent damage. Her first visits are to more barren and empty parts but later on she sees the corpses and ruins. Her mother also contracts her later on.
