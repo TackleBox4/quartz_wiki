@@ -107,3 +107,30 @@ h1 {
    footer a {
      color: var(--secondary) !important;
    }
+@media (min-width: 1650px) {
+  body::before,
+  body::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    width: calc((100vw - 1390px) / 2);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  body::before {
+    left: 0;
+    background-position: left center;
+    background-image: url("static/banner-mechanical.svg");
+  }
+
+  body::after {
+    right: 0;
+    background-position: right center;
+    background-image: url("static/banner-arcana-v2.svg");
+  }
+}
